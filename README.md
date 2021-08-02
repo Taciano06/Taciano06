@@ -17,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Taciano-Php" height="30" width="40"   
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Taciano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" width="250px" alt="Taciano-Bob Esponja" src="https://i.pinimg.com/originals/6b/79/c6/6b79c669d80bfd842bb9b0991937030d.gif">
+  
 </div>
 
  ##
