@@ -45,7 +45,7 @@
 </div>
 
  
-[linkedin]:www.linkedin.com/in/taciano-da-hora
+[linkedin]:https://www.linkedin.com/in/taciano-da-hora
 [instagram]:https://www.instagram.com/_taciano.santos/
 [twitter]:https://twitter.com/TacianoHora?t=qBAnn4-iFLcaLmPALNxt6w&s=09
 
