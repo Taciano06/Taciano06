@@ -1,34 +1,57 @@
-### Olá! 👋
 
-- Meu nome é Taciano.
 
-<div>
-  <a href="https://github.com/TacioDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TacioDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TacioDev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline-block;"><br>
-  <img align="center" alt="Taciano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Taciano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Taciano-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Taciano-Ts" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Taciano-Golang" height="30" width="40"   
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="Taciano-Flutter" height="30" width="40"   
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Taciano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
 
- ##
-  
+### Olá, sou Taciano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🎅
+
+- 🥼 Futuro Cientista da Computação. 🤩
+- 🌱 Atualmente estou estudando JavaScript e seus Frameworks e Bibliotecas.
+- 👨‍💻 Estou sempre disposto caso precisem de ajuda.
+- 📫 Como entrar em contato comigo: [@TacianodaHora][linkedin] ou diga 👋 no e-mail [Taciano da Hora](mailto:tacianohora2020@gmail.com)
+- ⚡ Curisidades: Eu ❤️⚽ & ❤️🎮.
+
+### Connect with me:
+
+[<img align="left" alt="Taciano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Taciano | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<img align="left" alt="Taciano | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+[<img align="left" alt="Taciano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="Taciano | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="Taciano | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<!-- [<img align="left" alt="Taciano | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
+<br />
+
+### Linguagens e ferramentas:
+<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br />
+<br />
+
+### 📊 GitHub Stats:
+
 <div> 
   
-  <a href="https://www.instagram.com/_taciano.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/taciano-da-hora-90b257214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/TacioDev/TacioDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/taciodev/taciodev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ 
+[linkedin]:www.linkedin.com/in/taciano-da-hora
+[instagram]:https://www.instagram.com/_taciano.santos/
+[twitter]:https://twitter.com/TacianoHora?t=qBAnn4-iFLcaLmPALNxt6w&s=09
+
+<!-- [website]:
+[facebook]: 
+[github]: 
+[telegram]: --> 
+
+
