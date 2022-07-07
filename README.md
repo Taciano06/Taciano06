@@ -1,7 +1,7 @@
 
 
 
-### Olá, sou Taciano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🎅
+### Olá, sou Taciano 🎅
 
 - 🥼 Futuro Cientista da Computação. 🤩
 - 🌱 Atualmente estou estudando JavaScript e seus Frameworks e Bibliotecas.
