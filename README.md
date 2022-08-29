@@ -1,14 +1,37 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/taciodev/4fb079931e1379a71f9ac1415cfc2150/raw/734e0a9685a6ecfb63d6d5e6f4f366aa4a5643b0/GithubCard.svg"/>
+<h1 align="left">Olá, sou Taciano <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taciodev&color=yellow" alt="Profile views" /> </p>
 
+- 🔥 FullStack Developer & Futuro Cientista da Computação
 
-
-### Olá, sou Taciano 🎅
-
-- 🥼 Futuro Cientista da Computação. 🤩
 - 🌱 Atualmente estou estudando JavaScript e seus Frameworks e Bibliotecas.
-- 👨‍💻 Estou sempre disposto caso precisem de ajuda.
-- 📫 Como entrar em contato comigo: [@TacianodaHora][linkedin] ou diga 👋 no e-mail [Taciano da Hora](mailto:tacianohora2020@gmail.com)
-- ⚡ Curisidades: Eu ❤️⚽ & ❤️🎮.
 
+- 💬 [@TacianodaHora][linkedin] ou diga 👋 no e-mail [tacianohora2020@gmail.com](mailto:tacianohora2020@hotmail.com)
+
+- ⚡ Estou sempre disposto caso precisem de ajuda
+
+- 👨‍💻 Curisidades: Eu ❤️⚽ & ❤️🎮
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypesScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+<br>
+
+<!--
 ### Connect with me:
 
 [<img align="left" alt="Taciano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,33 +40,28 @@
 [<img align="left" alt="Taciano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <img align="left" alt="Taciano | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <img align="left" alt="Taciano | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-<!-- [<img align="left" alt="Taciano | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+ [<img align="left" alt="Taciano | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+ -->
 
-<br />
+## Contatos
 
-### Linguagens e ferramentas:
-<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/Taciano-da-Hora" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-taciodev-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://twitter.com/TacianoHora?t=qBAnn4-iFLcaLmPALNxt6w&s=09" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-taciodev-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/taciano-da-hora" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-taciodev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
 
-<br />
-<br />
-
-### 📊 GitHub Stats:
-
+<!--
 <div> 
-  
   ![Snake animation](https://github.com/taciodev/taciodev/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
-
+-->
  
 [linkedin]:https://www.linkedin.com/in/taciano-da-hora
 [instagram]:https://www.instagram.com/_taciano.santos/
@@ -52,7 +70,8 @@
 <!-- [website]:
 [facebook]: 
 [github]: 
-[telegram]: --> 
+[telegram]: 
+--> 
 
 
 
