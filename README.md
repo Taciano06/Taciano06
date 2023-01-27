@@ -1,4 +1,4 @@
-<h1 align="left">Olá, sou Taciano <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Olá,eu sou Taciano <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taciodev&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 FullStack Developer & Futuro Cientista da Computação
