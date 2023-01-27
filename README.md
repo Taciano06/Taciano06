@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/taciodev/4fb079931e1379a71f9ac1415cfc2150/raw/734e0a9685a6ecfb63d6d5e6f4f366aa4a5643b0/GithubCard.svg"/>
 <h1 align="left">Olá, sou Taciano <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taciodev&color=yellow" alt="Profile views" /> </p>
 
